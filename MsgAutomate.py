@@ -16,7 +16,7 @@ This message is sent by automation.
 driver = webdriver.Chrome()
 
 # enter comma separated 10 digit phone numbers here or read them from the numbers_file
-phone = ['8285662036', '9718868859']
+phone = ['**********', '**********']
 
 
 # url-encode the message, use other functions for handling dictionaries, not recommended
